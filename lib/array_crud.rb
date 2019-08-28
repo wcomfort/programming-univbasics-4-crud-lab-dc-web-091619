@@ -43,7 +43,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  car_manuf = ["wow", "Ferrari", "Rolls Royce", "Toyota"]
+  car_manuf[3]
 end
 
 def update_element_from_index(array, index_number, element)
